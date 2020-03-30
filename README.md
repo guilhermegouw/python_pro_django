@@ -1,4 +1,4 @@
-# python_pro_django
+# python_pro_django curso PythonPro
 
 [![Build Status](https://travis-ci.com/guilhermegouw/python_pro_django.svg?branch=master)](https://travis-ci.com/guilhermegouw/python_pro_django)
 
