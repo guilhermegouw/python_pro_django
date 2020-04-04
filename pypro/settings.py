@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # Local apps
     'pypro.base',
+    'pypro.aperitivos',
 ]
 
 MIDDLEWARE = [
