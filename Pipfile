@@ -10,7 +10,6 @@ codecov = "*"
 model-mommy = "*"
 
 [packages]
-django = "*"
 gunicorn = "*"
 pytest-django = "*"
 python-decouple = "*"
@@ -20,6 +19,8 @@ django-s3-folder-storage = "*"
 collectfast = "*"
 django-debug-toolbar = "*"
 sentry-sdk = "*"
+django = "*"
+model-mommy = "*"
 
 [requires]
 python_version = "3.7"
