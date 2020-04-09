@@ -21,6 +21,7 @@ django-debug-toolbar = "*"
 sentry-sdk = "*"
 django = "*"
 model-mommy = "*"
+django-ordered-model = "*"
 
 [requires]
 python_version = "3.7"
